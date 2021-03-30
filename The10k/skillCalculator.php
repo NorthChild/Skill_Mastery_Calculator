@@ -2,7 +2,7 @@
 
 // code coming soon
 
-$progress = '15%'
+$progress = '55%'
 
 // come back later ;)
 
