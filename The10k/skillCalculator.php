@@ -2,7 +2,7 @@
 
 // code coming soon
 
-$progress = '55%'
+$progress = '62%'
 echo('Progress = '.$progress.'%');
 
 // come back later ;)
